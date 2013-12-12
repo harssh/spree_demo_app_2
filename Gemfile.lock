@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/harsshhfs/spree_attach_document.git
-  revision: 53a159e6155b2e08a8c29fa9489f476540f5bd2d
+  revision: 718ebc4240f0f8f81ae6d1b773bcfcadc7e3a9aa
   branch: 1-2-stable
   specs:
     spree_attach_document (1.2.0)
